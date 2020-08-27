@@ -39,4 +39,7 @@ Use the two sides of the controller like you would use two Atari keyboard contro
 For information on how to use Synthcart, check out the [Synthcart](http://www.qotile.net/synth.html) manual.
 
 
+![pcb artwork](images/apc.png)
+
+
 [![WTFPL](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png)](http://www.wtfpl.net)
