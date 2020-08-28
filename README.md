@@ -10,7 +10,7 @@ Building a Synthcart Ctrl is a very easy and beginner-friendly soldering project
 
 ### PCB
 
-Upload the Gerber files in the [kicad](kicad) directory (you may want to zip the whole `gerbers` directory for easier handling) to a PCB manufacturer of your choice and order a PCB.
+Download the [synthcart-ctrl-gerbers.zip](https://github.com/sarweiler/synthcart-ctrl/releases/latest/download/synthcart-ctrl-gerbers.zip) file for the latest release, upload the zip archive to a PCB manufacturer of your choice, and order a PCB. Usually the default settings for the PCBs are okay – just choose a color for the solder mask that you like, if you dont want the standard PCB-green.
 
 ### Parts
 
