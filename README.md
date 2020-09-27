@@ -19,7 +19,7 @@ Download the [synthcart-ctrl-gerbers.zip](https://github.com/sarweiler/synthcart
 * Two female DB9 connectors of the PCB-mount variant with mounting pins ([these](https://www.mouser.com/ProductDetail/571-2311765-1), [these](https://www.reichelt.de/d-sub-buchse-9-polig-gewinkelt-rm-9-4-gedr-d-sub-bu-09gwc-p113921.html), or any connector with similar measurements will work).
 * 24 Cherry MX compatible keycaps of your choice. (I used [these](https://www.aliexpress.com/item/32987364794.html?spm=a2g0s.9042311.0.0.27424c4dBs286T) in the "blank" variant.)
 * Two DB9 extension cables for connecting the controller to the Atari.
-* Optional: 4 rubber feet
+* 4 rubber feet
 
 ### Soldering
 
@@ -27,7 +27,7 @@ Download the [synthcart-ctrl-gerbers.zip](https://github.com/sarweiler/synthcart
 * Solder the two female DB9 connectors (J1, J2).
 * Solder all 24 Cherry MX switches. If you're using non-PCB-mount switches be careful to align them correctly.
 * Install your keycaps on the switches.
-* Add some rubber feet to the bottom of the PCB, if you like.
+* Add the rubber feet to the bottom of the PCB, to avoid shorts when using the controller on conductive surfaces.
 * Done!
 
 ## Using Synthcart Ctrl
