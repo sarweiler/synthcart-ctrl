@@ -23,11 +23,11 @@ Download the [synthcart-ctrl-gerbers.zip](https://github.com/sarweiler/synthcart
 
 ### Soldering
 
-* Start by soldering the four resistors (R1, R2, R3, R4).
-* Solder the two female DB9 connectors (J1, J2).
+* Start by soldering the four 4.7k resistors.
+* Solder the two female DB9 connectors.
 * Solder all 24 Cherry MX switches. If you're using non-PCB-mount switches be careful to align them correctly.
 * Install your keycaps on the switches.
-* Add the rubber feet to the bottom of the PCB, to avoid shorts when using the controller on conductive surfaces.
+* Add the rubber feet to the bottom of the PCB to avoid shorts when using the controller on conductive surfaces.
 * Done!
 
 ## Using Synthcart Ctrl
@@ -37,6 +37,10 @@ Using the controller is pretty straight forward: Connect the left port of your c
 Use the two sides of the controller like you would use two Atari keyboard controllers to control Synthcart.
 
 For information on how to use Synthcart, check out the [Synthcart](http://www.qotile.net/synth.html) manual.
+
+## Disclaimer
+
+Build and use Synthcart Ctrl at your own risk. I cannot be held responsible for damage caused to your devices, yourself or others.
 
 
 ![pcb artwork](images/apc.png)
