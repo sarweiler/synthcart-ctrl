@@ -42,11 +42,10 @@ For information on how to use Synthcart, check out the [Synthcart](http://www.qo
 
 Build and use Synthcart Ctrl at your own risk. I cannot be held responsible for damage caused to your devices, yourself or others.
 
-
-![pcb artwork](images/apc.png)
-
 ## License
 
 This work is licensed under [CC-BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
 
 [![CC-BY-SA](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+
+![pcb artwork](images/apc.png)
