@@ -38,12 +38,15 @@ Use the two sides of the controller like you would use two Atari keyboard contro
 
 For information on how to use Synthcart, check out the [Synthcart](http://www.qotile.net/synth.html) manual.
 
+
+![pcb artwork](images/apc.png)
+
 ## Disclaimer
 
 Build and use Synthcart Ctrl at your own risk. I cannot be held responsible for damage caused to your devices, yourself or others.
 
 ## License
 
-This work is licensed under [CC-BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/) [![CC-BY-SA](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+This work is licensed under [CC-BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
 
-![pcb artwork](images/apc.png)
+[![CC-BY-SA](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
